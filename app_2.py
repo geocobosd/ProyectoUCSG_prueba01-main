@@ -1,6 +1,7 @@
 """
 ProyectoUCSG - Análisis de Churn Bancario
 Aplicación profesional de análisis exploratorio de datos 
+Desarrollodo por Equipo 02
 """
 
 import streamlit as st
